@@ -12,9 +12,13 @@
   
   
 
-### Slides de palestra: https://speakerdeck.com/kamilahsantos/live-coding-dio-api-de-herois-com-spring-webflux
+### Slides de palestra: 
 
-### Palestra garavda: https://www.youtube.com/watch?v=1VllPZYn6RI&t=3257s
+https://speakerdeck.com/kamilahsantos/live-coding-dio-api-de-herois-com-spring-webflux
+
+### Palestra gravada: 
+
+https://www.youtube.com/watch?v=1VllPZYn6RI&t=3257s
 
 
 
