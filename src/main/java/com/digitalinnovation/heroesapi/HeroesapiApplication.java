@@ -12,6 +12,6 @@ public class HeroesapiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(HeroesapiApplication.class, args);
-        log.info("super powers with webflux");
+        log.info("Super Powers with Webflux");
     }
 }
