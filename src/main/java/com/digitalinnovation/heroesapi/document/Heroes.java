@@ -26,4 +26,5 @@ public class Heroes {
 
     @DynamoDBAttribute (attributeName = "films")
     private int films;
+
 }
