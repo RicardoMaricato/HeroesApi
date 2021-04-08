@@ -1,4 +1,4 @@
-package com.digitalinnovation.heroesapi.Constans;
+package com.digitalinnovation.heroesapi.constans;
 
 public class HeroesConstant {
 

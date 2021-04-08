@@ -8,8 +8,8 @@ import com.amazonaws.services.dynamodbv2.document.Item;
 import com.amazonaws.services.dynamodbv2.document.PutItemOutcome;
 import com.amazonaws.services.dynamodbv2.document.Table;
 
-import static com.digitalinnovation.heroesapi.Constans.HeroesConstant.ENDPOINT_DYNAMO;
-import static com.digitalinnovation.heroesapi.Constans.HeroesConstant.REGION_DYNAMO;
+import static com.digitalinnovation.heroesapi.constans.HeroesConstant.ENDPOINT_DYNAMO;
+import static com.digitalinnovation.heroesapi.constans.HeroesConstant.REGION_DYNAMO;
 
 public class HeroesData {
 

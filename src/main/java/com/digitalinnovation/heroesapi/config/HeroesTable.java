@@ -10,8 +10,8 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.util.Arrays;
 
-import static com.digitalinnovation.heroesapi.Constans.HeroesConstant.ENDPOINT_DYNAMO;
-import static com.digitalinnovation.heroesapi.Constans.HeroesConstant.REGION_DYNAMO;
+import static com.digitalinnovation.heroesapi.constans.HeroesConstant.ENDPOINT_DYNAMO;
+import static com.digitalinnovation.heroesapi.constans.HeroesConstant.REGION_DYNAMO;
 
 @Slf4j
 public class HeroesTable {
